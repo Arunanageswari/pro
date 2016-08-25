@@ -19,3 +19,4 @@ System.out.println("not anagram");
 }}
 else
 System.out.println("length ineuality");
+}
